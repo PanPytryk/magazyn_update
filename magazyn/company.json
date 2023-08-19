@@ -1,0 +1,89 @@
+{
+    "account": {
+        "balance": 12800.0
+    },
+    "history": [
+        {
+            "balance": 10000,
+            "new_balance": 9300.0,
+            "type": "account"
+        },
+        {
+            "balance": 9300.0,
+            "price": 7.0,
+            "product_name": "kropelka",
+            "type": "purchase"
+        },
+        {
+            "balance": 9300.0,
+            "new_balance": 400.0,
+            "type": "account"
+        },
+        {
+            "balance": 400.0,
+            "price": 8900.0,
+            "product_name": "pc",
+            "type": "purchase"
+        },
+        {
+            "balance": 400.0,
+            "new_balance": 800.0,
+            "type": "account"
+        },
+        {
+            "balance": 800.0,
+            "type": "account"
+        },
+        {
+            "balance": 800.0,
+            "new_balance": 12800.0,
+            "type": "account"
+        },
+        {
+            "balance": 12800.0,
+            "type": "account"
+        },
+        {
+            "balance": 12800.0,
+            "type": "account"
+        }
+    ],
+    "warehouse": {
+        "doniczka": {
+            "amount": 300,
+            "price": 49
+        },
+        "klej_kropela": {
+            "amount": 1300,
+            "price": 7
+        },
+        "komputer": {
+            "amount": 3,
+            "price": 5299
+        },
+        "kropelka": {
+            "amount": 100,
+            "price": 7.0
+        },
+        "lizak": {
+            "amount": 2000,
+            "price": 1
+        },
+        "pc": {
+            "amount": 1,
+            "price": 8900.0
+        },
+        "rower": {
+            "amount": 6,
+            "price": 1399
+        },
+        "siekiera_fiskars": {
+            "amount": 80,
+            "price": 300
+        },
+        "trampolina": {
+            "amount": 9,
+            "price": 500
+        }
+    }
+}
